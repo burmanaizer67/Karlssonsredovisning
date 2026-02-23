@@ -389,15 +389,16 @@ footer {
 @media (max-width: 768px) {
     .nav-menu {
         flex-direction: column;
-        gap: 0.5rem;
+        gap: 0.3rem;
     }
 
     .nav-menu a {
-        font-size: 0.95rem;
+        font-size: 0.85rem;
+        padding: 0.5rem 0;
     }
 
     .hero-content h2 {
-        font-size: 2rem;
+        font-size: 1.8rem;
     }
 
     .hero-content p {
