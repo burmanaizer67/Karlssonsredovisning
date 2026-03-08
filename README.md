@@ -52,3 +52,12 @@ För att publicera webbplatsen behöver du:
 ## Support
 
 För frågor eller support, kontakta utvecklaren.
+
+## Ändringslogg
+
+### 2026-03-07
+- Tog bort avsnittet Utbildning från Om oss.
+- Behöll och tydliggjorde fokus på erfarenhet.
+- Behöll värdeorden: Personlig service, Lång erfarenhet, Flexibla lösningar och Konkurrenskraftiga priser.
+- Städade bort oanvända utbildningsrelaterade CSS-regler i styles.css.
+- Uppdaterade cache-version på stylesheet till styles.css?v=7.
